@@ -1,0 +1,334 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.back{
+    align-items: center;
+   
+   
+   flex-direction: column;
+   justify-content: center;
+}
+.sec1 .imag{
+    text-align: center;
+}
+.back .sec1 img{
+   
+    overflow: hidden;
+    width: 70%;
+}
+.back  .sec2{
+    width: 70%;
+    background-color: rgb(37, 134, 134);
+ 
+ height: 55vh;
+ 
+}
+.back .sec2 .tab{
+    border-radius: 6%;
+    background-color: #fff;
+    margin-left: .6rem;
+    width: 18%;
+    height: 28vh;
+    padding: 1rem;
+    margin-top: -8rem;
+
+}
+.tab i{
+    color:rgb(211, 208, 208);
+    width: 2rem;
+    height: 2rem;
+    padding: .4rem;
+    border-radius: 50%;
+    background-color: rgb(37, 134, 134);
+    margin-bottom: .6rem;
+}
+.tab h2{
+    font-size: 1.3rem;
+}
+.tab p{
+    color: rgb(173, 171, 171);
+    font-size: .8rem;
+}
+.sec2 h5{
+    text-align: center;
+    color: #fff;
+    font-size: .7rem;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+.sec2 .hed{
+    text-align: center;
+}
+
+.sec2 .par{
+    text-align: center;
+    
+    font-size: .8rem;
+}
+.back .sec3{
+    width: 70%;
+    background-color: rgb(206, 202, 202);
+ 
+    height: 50vh;
+}
+
+.sec3 img{
+    width: 90%;
+    border-radius: 6%;
+    margin-bottom: 1rem;
+}
+
+.top .inner{
+    text-align: center;
+    padding: 1rem;
+    border-radius: 8% !important;
+}
+.inner p{
+    font-size: .5rem;
+}
+.inner a{
+    font-size: .7rem;
+}
+.sec3  .row{
+    margin-top: -3rem;
+}
+.about{
+    text-align: center;
+    background-color: rgba(243, 240, 240, 0.4);
+    width: 70%;
+    height: 80vh;
+}
+
+.about .imagr img{
+    width: 20%;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+    
+  
+}
+.about .hed-about{
+   text-align: center;
+}
+.about .hed-about h4{
+    font-weight: bold;
+   
+}
+.about .hed-about p{
+    font-size: .8rem;
+    color: rgb(158, 158, 158) !important;
+}
+.about button{
+    width: 18%;
+    color: #fff !important;
+    background-color: rgb(37, 134, 134) !important;
+    border-radius: 4rem;
+    padding: .3rem;
+    
+}
+.serv{
+    width: 70%;
+    background-color: rgb(206, 202, 202);
+    height: 40vh;
+ 
+}
+.serv h3{
+    text-align: right;
+    font-weight: bold;
+    font-size: 2rem;
+    padding-right: 5rem;
+}
+.mark{
+    width: 70%;
+    height: 30vh;
+    background-color: rgb(37, 134, 134);
+}
+.mark img{
+    width: 32%;
+    margin-top: -7rem;
+    margin-left: 50%;
+    border-radius: 80%;
+    z-index: 99;
+    
+    
+}
+.tem{
+    width: 70%;
+    background-color: rgb(206, 202, 202);
+    flex-direction: column;
+    height: 45vh;
+    
+    
+}
+.tem .temp{
+    border-radius: 6%;
+    width: 20%;
+    height: 25vh;
+    padding: .5rem;
+    margin-left: .8rem;
+    
+    
+    
+    
+    
+}
+.ter{
+    margin-top: -8rem !important;
+}
+.temm{
+    
+    justify-content: center !important;
+    margin-right: 6rem;
+
+   
+    
+}
+.temp h5{
+    font-size: .8rem;
+    
+}
+.temp p{
+    font-size: .6rem;
+}
+.offer{
+    width: 70%;
+    margin: auto;
+    
+}
+.offer h2{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
+.offer h3{
+    padding: 0 2rem;
+    font-size: 1.3rem;
+    color: rgb(37, 134, 134) !important;
+}
+.offer p{
+    font-size: .7rem;
+    color: #666;
+}
+.secc{
+    width: 70%;
+    height: 90vh;
+    margin-top: 4rem;
+    justify-content: center;
+    align-items: center;
+    background-color:#dee2e6 ;
+}
+.secc1{
+    align-items: center;
+    justify-content: center;
+}
+.secc3{
+    margin-top: 9rem;
+}
+.secc img{
+   
+    width: 100%;
+    height: 30vh;
+   
+}
+.secc .col-4{
+    width: 20%;
+    height: 30vh;
+    border: 1px solid white;
+    background-color: #fff;
+    
+}
+.secc1 p{
+    font-size: .6rem;
+    color: #666;
+}
+.secc1 a{
+    font-size: .6rem;
+}
+.loyer{
+    width: 70%;
+   
+    background-color: rgba(243, 240, 240, 0.4);
+}
+.loyer-img{
+    width: 50%;
+}
+.loyer-img img{
+
+    width: 80%;
+    margin-left: 4rem;
+   
+    
+    
+}
+.loyer i{
+    color:white;
+    width: 2rem;
+    height: 2rem;
+    padding: .4rem;
+    border-radius: 50%;
+    background-color: rgb(37, 134, 134);
+    margin-bottom: .6rem;
+    margin-right: 1rem;
+}
+.loyer h4{
+    font-size: 1rem;
+}
+.loyer p{
+    font-size: .6rem;
+    margin-left: 3rem;
+    color: #666;
+}
+
+.loyer-sec {
+    width: 50%;
+
+}
+.forms{
+    width: 70%;
+    background-color:#dee2e6 ;
+    height: 80vh;
+}
+.forms1{
+    width: 50%;
+    padding: 5rem;
+}
+.forms1 input{
+    margin-bottom: 1rem;
+    border-radius: 5rem;
+}
+.forms1 textarea{
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+   
+}
+.forms1 button{
+    border-radius: 5rem;
+    
+}
+.forms1 h3{
+    margin-bottom:2rem ;
+}
+.forms1 p{
+    color: #666;
+}
+.forms1 i{
+    color:white;
+    font-size: 1rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    padding:  .4rem;
+    margin-bottom: .6rem;
+    margin-right: .5rem;
+    margin-top: .5rem;
+    
+    background-color: black;
+    border-radius: 50%;
+}
+.forms1 .oo{
+    font-size: .7rem;
+}
